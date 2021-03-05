@@ -4,4 +4,4 @@
 - 💻 My favourite language is Python, but i also am confident in using C# and JS.
 - 🌱 I’m currently learning web application development, i already tried Django, but i want to work as a backend dev in Node.js
 
-- 📫 You can contact me on josefmalyy@gmail.com
+- 📫 You can contact me at josefmalyy@gmail.com
