@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=cisc0disco&theme=default&show_icons=true&hide_border=true&count_private=true" alt="cisc0disco's GitHub Stats" />
 
 <!--
 **cisc0disco/cisc0disco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
